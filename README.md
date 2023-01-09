@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 🔭 I’m currently internship as Android Engineer at **Vidio.com**
+- 🔭 I’m currently study at **Esa Unggul University**
 
 - 💬 Ask me about **Android & UI/UX**
 
